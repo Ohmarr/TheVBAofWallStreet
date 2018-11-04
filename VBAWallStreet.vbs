@@ -79,8 +79,9 @@ Dim CurrentRow As Integer
 End Sub
 
 
-'LOGIC:
-'1) go to sheet 1
-'2) create new column of unique ticker symbols
-'3) create new column of total volume of each symbol
-'4) create new column of price change
+'LOGIC: Done to each sheet
+'1) start with new (1st) ticker, & collect initial price (opening), start sum of daily volumes for ticker 
+'2) Is next ticker new?  If no, keep summing daily volumes
+'3) If yes, collect final price, make calculations (total change, percent change, total sum of volume)
+'3) summarize results for ticker by printing calculations & totals into a new column
+'4) Repeat process starting with new ticker ... 
