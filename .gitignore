@@ -1,3 +1,7 @@
+#files to ignore
+/Resources/alphabtical_testing.xlsx
+/Resources/Multiple_year_stock_data.xlsx
+
 # nbgrader database file
 gradebook.db
 
