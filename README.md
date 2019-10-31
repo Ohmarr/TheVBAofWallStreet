@@ -15,8 +15,8 @@
 - Each data entry included the Ticker Symbol, Date, as well as the following daily attributes: Opening Price, Closing Price, Highest Price, Lowest Price, and Volume.  
 
 <hr>
-
-A VBA (Visual Basic for Applications) script was developed to loop through all stocks and create a column for:
+**Project:**
+A [VBA (Visual Basic for Applications) script](https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/VBAWallStreet.vbs) was developed to loop through all stocks and create a column for:
 1.  Total Volume of each Stock’s Sales throughout the year,
 2.  Stock’ Ticker Symbol,
 3.  Yearly Price Change (Opening price to Closing Price),
@@ -24,7 +24,9 @@ A VBA (Visual Basic for Applications) script was developed to loop through all s
 5.  Greatest & Increase/Decrease,
 6.  Greatest Total Volume.
 
-Quickloock Snapshots (Excel File Can Be Seen Here):
+<h3 align='center'>Quickloock Snapshots:</h3>
+
+Summary [Excel File](https://github.com/Ohmarr/TheVBAofWallStreet/blob/master/Resources/summary.xlsx) Can Be Seen Here:
 
 ||||
 |---|---|---|
