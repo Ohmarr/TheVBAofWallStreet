@@ -25,6 +25,7 @@ A VBA (Visual Basic for Applications) script was developed to loop through all s
 6.  Greatest Total Volume.
 
 Quickloock Snapshots (Excel File Can Be Seen Here):
+
 ||||
 |---|---|---|
 |<img width='1604' alt='2014' src='https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/static/2014%20Summary%20Quicklook.png'>|<img width='1604' alt='2015' src='https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/static/2015%20Summary%20Quicklook.png'>|<img width='1604' alt='2016' src='https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/static/2016%20Summary%20Quicklook.png'>|
