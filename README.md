@@ -15,8 +15,8 @@
 - Each data entry included the Ticker Symbol, Date, as well as the following daily attributes: Opening Price, Closing Price, Highest Price, Lowest Price, and Volume.  
 
 <hr>
-**Project:**
-A [VBA (Visual Basic for Applications) script](https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/VBAWallStreet.vbs) was developed to loop through all stocks and create a column for:
+**Project:**<br>
+A [VBA](https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/VBAWallStreet.vbs) (Visual Basic for Applications) script was developed to loop through all stocks and create a column for: <br>
 1.  Total Volume of each Stock’s Sales throughout the year,
 2.  Stock’ Ticker Symbol,
 3.  Yearly Price Change (Opening price to Closing Price),
