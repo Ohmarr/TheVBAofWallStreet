@@ -1,10 +1,16 @@
+<h1 align='center'>Wall Street Quicklook Using VBA (Visual Basic for Applications) Script </h1>
 
-![logo](https://github.com/Ohmarr/TheVBAofWallStreet/blob/master/static/stockmarket.jpg "Wallstreet Logo")
-<h1 align=center> Wall Street Summarization Script </h1> <br>
+<p align='center'>
+  <img width='auto' height='auto' src='https://github.com/Ohmarr/TheVBAofWallStreet/blob/master/static/stockmarket.jpg'> 
+</p>
 
-<h3 align=center> Project Members: </h3>
-<h4 align=center> Omar Abusheikh, </h4>
+<hr>
 
+**Visit my [Online Portfolio](https://Ohmarr.github.io)**
+
+<h2 align='center'>Overview</h2>
+
+Given 
 <hr>
 
 The following VBA script will loop through all stocks and create a column for:
@@ -14,8 +20,5 @@ The following VBA script will loop through all stocks and create a column for:
 4.  Yearly Percent Change (Opening price to Closing Price),
 5.  Greatest & Increase/Decrease,
 6.  Greatest Total Volume.
-
-Quicklook:
-![logo](https://github.com/Ohmarr/TheVBAofWallStreet/blob/master/static/stockmarket.jpg "Wall Street Logo")
 
 *Conditional formatting was applied to the Excel worksheets seen in the screenshots.*
