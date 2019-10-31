@@ -28,6 +28,12 @@ A [VBA](https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/VBAWa
 
 <hr>
 
+<h3 align='center'>Ticker Summary:</h3>
+
+<p align='center'>
+  <img width='auto' height='auto' src='https://hips.hearstapps.com/toc.h-cdn.co/assets/17/10/1488926170-state-street.jpg'> 
+</p>
+
 <h3 align='center'>Quickloock Snapshots:</h3>
 
 Summary [Excel File](https://github.com/Ohmarr/TheVBAofWallStreet/blob/master/Resources/summary.xlsx) Can Be Seen Here:
