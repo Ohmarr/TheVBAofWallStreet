@@ -31,7 +31,7 @@ A [VBA](https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/VBAWa
 <h3 align='center'>Ticker Summary:</h3>
 
 <p align='center'>
-  <img width='auto' height='auto' src='https://hips.hearstapps.com/toc.h-cdn.co/assets/17/10/1488926170-state-street.jpg'> 
+  <img width='auto' height='auto' src='https://raw.githubusercontent.com/Ohmarr/TheVBAofWallStreet/master/static/TickerSummary.png'> 
 </p>
 
 <h3 align='center'>Quickloock Snapshots:</h3>
